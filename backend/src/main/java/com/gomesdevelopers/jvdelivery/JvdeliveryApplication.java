@@ -1,0 +1,13 @@
+package com.gomesdevelopers.jvdelivery;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JvdeliveryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JvdeliveryApplication.class, args);
+	}
+
+}
